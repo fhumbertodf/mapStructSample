@@ -1,0 +1,10 @@
+/build/
+/.classpath
+/.project
+/target/
+/.settings/
+/.metadata/
+/classes/
+/bin/
+/.externalToolBuilders/
+/.tern-project
